@@ -1,0 +1,19 @@
+{
+  "name": "jankx/seo",
+  "description": "Create basic SEO metadata for Jankx Framework",
+  "type": "library",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Puleeno Nguyen",
+      "email": "puleeno@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Jankx\\SEO\\": "src/"
+    }
+  }
+}
